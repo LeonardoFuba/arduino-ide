@@ -35,3 +35,9 @@ Download using the [GitHub .zip download](https://github.com/dracula/arduino-ide
 - Rename **theme** folder to **theme.bak**.
 - Copy the `./arduino/theme` folder to the `/usr/share/arduino/lib/` directory on your local machine.
 - Close and re-open Arduino IDE!
+
+**Linux snap**
+- Navigate to `~/snap/arduino/current/Arduino/`
+- Create **theme** folder if not exist.
+- Copy the `./arduino/dracula.zip` file to the `~/snap/arduino/current/Arduino/theme` directory on your local machine.
+- Close and re-open Arduino IDE!
